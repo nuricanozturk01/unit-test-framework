@@ -235,6 +235,5 @@ public class MyTest {
 ![fail](https://github.com/nuricanozturk01/Unit-Test-Framework/assets/62218588/e58fe064-34b8-4766-8de9-6fb221572d16)
 
 
-### Bugs and Features
- - If you detect bug, contact me.
- - No new feature will be added.
+### 🙏 Support My Work
+<a href="https://www.buymeacoffee.com/canozturk3U" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
