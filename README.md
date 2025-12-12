@@ -39,7 +39,7 @@ and repository definition:
     <repository>
         <id>repsy</id>
         <name>My Private Maven Repository on Repsy</name>
-        <url>https://repo.repsy.io/mvn/nuricanozturk/unit-test-framework</url>
+        <url>https://repo.nuricanozturk.com/unit-test-framework</url>
     </repository>
 </repositories>
 ```
